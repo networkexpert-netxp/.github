@@ -1,0 +1,21 @@
+name: Report a problem
+description: Tell us about something that is not working
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: Please report security vulnerabilities privately through the Security tab, not here.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Tell us what went wrong and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Helpful details
+      description: Add steps, a link, a version, or redacted logs if you have them.
+
