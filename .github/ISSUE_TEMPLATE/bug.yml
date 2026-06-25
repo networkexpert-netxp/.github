@@ -1,4 +1,5 @@
 name: Report a problem
+projects: ["networkexpert-netxp/2"]
 description: Tell us about something that is not working
 title: "[Bug]: "
 labels: ["bug", "triage"]
@@ -18,4 +19,3 @@ body:
     attributes:
       label: Helpful details
       description: Add steps, a link, a version, or redacted logs if you have them.
-
