@@ -1,4 +1,5 @@
 name: Suggest an improvement
+projects: ["networkexpert-netxp/2"]
 description: Share an idea or a need
 title: "[Idea]: "
 labels: ["enhancement", "triage"]
@@ -15,4 +16,3 @@ body:
     attributes:
       label: Anything else?
       description: Add examples, links, or constraints if useful.
-
